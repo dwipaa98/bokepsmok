@@ -1,2 +1,1 @@
-# bokepsmok
-bokepsmok
+# [bokepsmok](https://bokepsmok.pages.dev)
